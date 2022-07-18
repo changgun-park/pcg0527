@@ -6,14 +6,14 @@
 >
 > 생산적인 **토론**을 좋아합니다. 옳고 그름보다, **‘왜’**라는 질문으로 토론합니다.
 
-
-
+  &nbsp;
+             
 
 [이력서 ](https://diagnostic-pot-c36.notion.site/5a2f17995ece4926802070d245b0338b)
 
 [포트폴리오](https://diagnostic-pot-c36.notion.site/portfolio-5f5c5d50919c413d9b173fd7b0358399) 
 
-
+  &nbsp;
 
 <div align="center" style="text-align:center">
 
