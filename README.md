@@ -13,6 +13,7 @@
 [포트폴리오](https://diagnostic-pot-c36.notion.site/portfolio-5f5c5d50919c413d9b173fd7b0358399) 
 
 
-<div align="center" style="text-align:center">
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pcg0527)](https://github.com/eungyeole/velog-readme-stats)
 
+<div align="center" style="text-align:center">
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pcg0527)](https://github.com/eungyeole/velog-readme-stats)
