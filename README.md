@@ -8,6 +8,7 @@
 
 
 
+
 [이력서 ](https://diagnostic-pot-c36.notion.site/5a2f17995ece4926802070d245b0338b)
 
 [포트폴리오](https://diagnostic-pot-c36.notion.site/portfolio-5f5c5d50919c413d9b173fd7b0358399) 
