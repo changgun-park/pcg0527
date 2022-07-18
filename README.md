@@ -16,4 +16,4 @@
 
 <div align="center" style="text-align:center">
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pcg0527)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pcg0527)](https://velog.io/@pcg0527/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%99%80-%ED%81%B4%EB%A1%9C%EC%A0%80-2)
