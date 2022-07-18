@@ -6,7 +6,5 @@
 >
 > 생산적인 **토론**을 좋아합니다. 옳고 그름보다, **‘왜’**라는 질문으로 토론합니다.
 
- 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pcg0527)](https://velog.io/@pcg0527/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%99%80-%ED%81%B4%EB%A1%9C%EC%A0%80-2)
 
